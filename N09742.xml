@@ -110,8 +110,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:012397_0000_0F893F5CE3EE22A8"/>
-            <pb facs="tcp:012397_0001_0F893F5DA50733C8"/>
+            <pb facs="unknown:012397_0000_0F893F5CE3EE22A8"/>
+            <pb facs="unknown:012397_0001_0F893F5DA50733C8"/>
             <p>THE AMERICAN VILLAGE, A POEM. TO WHICH ARE ADDED, Several other ORIGINAL PIECES in VERSE.</p>
             <p>BY PHILIP FRENEAU, A. B.</p>
             <q>
@@ -125,7 +125,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:012397_0002_0F893F5E63B6AF58"/>
+            <pb facs="unknown:012397_0002_0F893F5E63B6AF58"/>
             <head>THE AMERICAN VILLAGE, &amp;c.</head>
             <lg>
                <l>WHERE yonder stream divides the fertile plain,</l>
@@ -151,7 +151,7 @@
                <l>It's harmless people, born to small command,</l>
                <l>Lost in the bosom of this western land:</l>
                <l>
-                  <pb n="2" facs="tcp:012397_0003_0F893F5F2633F7E0"/>
+                  <pb n="2" facs="unknown:012397_0003_0F893F5F2633F7E0"/>
 So shall my verse run gentle as the floods,</l>
                <l>So answer all ye hills, and echo all ye woods;</l>
                <l>So glide ye streams in hollow channels pent,</l>
@@ -179,7 +179,7 @@ So shall my verse run gentle as the floods,</l>
                <l>Their terrors harmless, tho' their story heard,</l>
                <l>How this one conquer'd or was nobly spar'd:</l>
                <l>
-                  <pb n="3" facs="tcp:012397_0004_0F893F5FE5BDBE40"/>
+                  <pb n="3" facs="unknown:012397_0004_0F893F5FE5BDBE40"/>
 Vain is their rage, to us their anger vain,</l>
                <l>The deep Atlantic raves and roars between.</l>
             </lg>
@@ -209,7 +209,7 @@ Vain is their rage, to us their anger vain,</l>
                <l>And heavy beams suspended from a tree,</l>
                <l>To press their juice against the winter's day:</l>
                <l>
-                  <pb n="4" facs="tcp:012397_0005_0F893F60A672FCB0"/>
+                  <pb n="4" facs="unknown:012397_0005_0F893F60A672FCB0"/>
 Or see the plough torn through the new made field,</l>
                <l>Ordain'd a harvest, yet unknown to yield.</l>
                <l>The rising barn whose spacious floor receives</l>
@@ -239,7 +239,7 @@ Or see the plough torn through the new made field,</l>
                <l>Yet peaceful all within, no tumults there,</l>
                <l>But fearless steps of the unhunted hare;</l>
                <l>
-                  <pb n="5" facs="tcp:012397_0006_0F893F62913906F0"/>
+                  <pb n="5" facs="unknown:012397_0006_0F893F62913906F0"/>
 And nightly chauntings of the fearless dove,</l>
                <l>Or blackbird's note, the harbinger of love.</l>
                <l>So peaceful was this haunt that nature gave,</l>
@@ -267,7 +267,7 @@ And nightly chauntings of the fearless dove,</l>
                <l>And trudging homeward with his welcome load,</l>
                <l>The fruit of wand'rings thro' each by-way road:</l>
                <l>
-                  <pb n="6" facs="tcp:012397_0007_0F893F62E65B5218"/>
+                  <pb n="6" facs="unknown:012397_0007_0F893F62E65B5218"/>
 Thrown down his burthen with the needless sigh,</l>
                <l>And gladly feasted his small family.</l>
                <l>Small fields had shen suffic'd, and grateful they,</l>
@@ -295,7 +295,7 @@ Thrown down his burthen with the needless sigh,</l>
                <l>He had not dream'd of worlds besides his own,</l>
                <l>And thought them only stars, beyond the moon;</l>
                <l>
-                  <pb n="7" facs="tcp:012397_0008_0F893F63A6EC4B60"/>
+                  <pb n="7" facs="unknown:012397_0008_0F893F63A6EC4B60"/>
 Enjoy'd himself, nor hear'd of future hell,</l>
                <l>Or heav'n, the recompence of doing well;</l>
                <l>Had scarcely thought of an eternal-state,</l>
@@ -323,7 +323,7 @@ Enjoy'd himself, nor hear'd of future hell,</l>
                <l>Rocks, to whose summits clouds eternal cling,</l>
                <l>Or clust'ring birds in their wild wood notes sing.</l>
                <l>
-                  <pb n="8" facs="tcp:012397_0009_0F893F64677885D0"/>
+                  <pb n="8" facs="unknown:012397_0009_0F893F64677885D0"/>
 Hills, from whose sides the mountain echo roars,</l>
                <l>Rebounding dreadful from the distant shores;</l>
                <l>Or vallies, where refreshing breezes blow,</l>
@@ -352,7 +352,7 @@ Hills, from whose sides the mountain echo roars,</l>
                <l>E'er since dread commerce stretch'd the nimble sail,</l>
                <l>And sent her wealth with ev'ry foreign gale.—</l>
                <l>
-                  <pb n="9" facs="tcp:012397_0010_0F893F6529398338"/>
+                  <pb n="9" facs="unknown:012397_0010_0F893F6529398338"/>
 Strange fate, but yet to ev'ry county known,</l>
                <l>To love all other riches but it's own.</l>
                <l>Thus fell the mistress of the conquer'd earth,</l>
@@ -380,7 +380,7 @@ Strange fate, but yet to ev'ry county known,</l>
                <l>NOR think this mighty land of old contain'd</l>
                <l>The plund'ring wretch, or man of bloody mind:</l>
                <l>
-                  <pb n="10" facs="tcp:012397_0011_0F893F65E71124F8"/>
+                  <pb n="10" facs="unknown:012397_0011_0F893F65E71124F8"/>
 Renowned SACHEMS once their empires rais'd</l>
                <l>On wholesome laws; and sacrifices blaz'd.</l>
                <l>The gen'rous soul inspir'd the honest breast,</l>
@@ -408,7 +408,7 @@ Renowned SACHEMS once their empires rais'd</l>
                <l>FAR in the arctic skies, where HUDSON'S BAY</l>
                <l>Rolls it's cold wave, and combats with the sea,</l>
                <l>
-                  <pb n="11" facs="tcp:012397_0012_0F893F66AAC4A778"/>
+                  <pb n="11" facs="unknown:012397_0012_0F893F66AAC4A778"/>
 A dreary region lifts it's dismal head,</l>
                <l>True sister to the regions of the dead.</l>
                <l>Here thund'ring storms continue half the year,</l>
@@ -436,7 +436,7 @@ A dreary region lifts it's dismal head,</l>
                <l>His barque unfaithful to it's trusted freight,</l>
                <l>Sprung the large leak, the messenger of fate;</l>
                <l>
-                  <pb n="12" facs="tcp:012397_0013_0F893F684C511F38"/>
+                  <pb n="12" facs="unknown:012397_0013_0F893F684C511F38"/>
 But no lament or female cry was heard,</l>
                <l>Each for their fate most manfully prepar'd,</l>
                <l>From bubbling waves to send the parting breath</l>
@@ -466,7 +466,7 @@ But no lament or female cry was heard,</l>
                <l>He sigh'd nor answer'd, but as firm as death,</l>
                <l>Resolv'd to save her with his latest breath:</l>
                <l>
-                  <pb n="13" facs="tcp:012397_0014_0F893F68EA776DF0"/>
+                  <pb n="13" facs="unknown:012397_0014_0F893F68EA776DF0"/>
 And as suspended by the barque's low side,</l>
                <l>He rais'd the infant from the chilling tide,</l>
                <l>And plac'd it safe; he forc'd his COLMA too</l>
@@ -494,7 +494,7 @@ And as suspended by the barque's low side,</l>
                <l>Yet shall our souls their ancient feelings have,</l>
                <l>More strong, more noble than this side the grave.</l>
                <l>
-                  <pb n="14" facs="tcp:012397_0015_0F893F69AA6C4290"/>
+                  <pb n="14" facs="unknown:012397_0015_0F893F69AA6C4290"/>
 There lovely blossoms blow throughout the year,</l>
                <l>And airy harvests rise without our care:</l>
                <l>And all our fires and mighty ancestors,</l>
@@ -522,7 +522,7 @@ There lovely blossoms blow throughout the year,</l>
                <l>Then shall I joy to find my bliss began</l>
                <l>To love an angel, whom I lov'd a man!</l>
                <l>
-                  <pb n="15" facs="tcp:012397_0016_0F893F6A6EEC0A08"/>
+                  <pb n="15" facs="unknown:012397_0016_0F893F6A6EEC0A08"/>
 She said, and downward in the hoary deep</l>
                <l>Plung'd her far form to everlasting sleep;</l>
                <l>Her parting soul it's latest struggle gave,</l>
@@ -550,7 +550,7 @@ She said, and downward in the hoary deep</l>
                <l>Nor pensive deer stray'd through the lonely grove,</l>
                <l>Nor sadly wept the sympathising dove.—</l>
                <l>
-                  <pb n="16" facs="tcp:012397_0017_0F893F6B2CB96AC8"/>
+                  <pb n="16" facs="unknown:012397_0017_0F893F6B2CB96AC8"/>
 Thus far'd the fire through his long days of pain,</l>
                <l>Or with his offspring rov'd the silent plain;</l>
                <l>'Till years approaching, bow'd his sacred head</l>
@@ -580,7 +580,7 @@ Thus far'd the fire through his long days of pain,</l>
                <l>Wou'd fate but raise me o'er the smaller cares,</l>
                <l>Of Life unwelcome and distressful years,</l>
                <l>
-                  <pb n="17" facs="tcp:012397_0018_0F893F6BEAD14208"/>
+                  <pb n="17" facs="unknown:012397_0018_0F893F6BEAD14208"/>
 Pedantic labours and a hateful ease,</l>
                <l>Which scarce the hoary wrinkled sage cou'd please.</l>
                <l>Hence springs each grief, each long reflective sigh,</l>
@@ -608,7 +608,7 @@ Pedantic labours and a hateful ease,</l>
                <l>And where yon' wave of silent water falls,</l>
                <l>O'er the smooth rock or Adamantine walls:</l>
                <l>
-                  <pb n="18" facs="tcp:012397_0019_0F893F6CAEDB54B0"/>
+                  <pb n="18" facs="unknown:012397_0019_0F893F6CAEDB54B0"/>
 The summer morns and vernal eves should see,</l>
                <l>MILTON, immortal bard my company;</l>
                <l>Or SHAKESPEARE, DRYDEN, each high sounding name,</l>
@@ -634,7 +634,7 @@ The summer morns and vernal eves should see,</l>
             </lg>
          </div>
          <div type="poem">
-            <pb n="19" facs="tcp:012397_0020_0F893F6E4FD4FE68"/>
+            <pb n="19" facs="unknown:012397_0020_0F893F6E4FD4FE68"/>
             <head>THE FARMER'S WINTER EVENING, A POEM. To the NYMPH I never saw.</head>
             <lg>
                <l>FAR be the pleasures of the day,</l>
@@ -654,7 +654,7 @@ The summer morns and vernal eves should see,</l>
                <l>Where jovial swains, with heart sincere,</l>
                <l>And timely mirth dishearten care:</l>
                <l>
-                  <pb n="20" facs="tcp:012397_0021_0F893F6EEB3D32D8"/>
+                  <pb n="20" facs="unknown:012397_0021_0F893F6EEB3D32D8"/>
 Each tells his tale, or chaunts a song</l>
                <l>Of her for whom he sigh'd so long;</l>
                <l>Of CLARA fair, or FLORA coy,</l>
@@ -682,7 +682,7 @@ Each tells his tale, or chaunts a song</l>
                <l>About her orb you may behold,</l>
                <l>A thousand stars of burnish'd gold,</l>
                <l>
-                  <pb n="21" facs="tcp:012397_0022_0F893F6FABE32B20"/>
+                  <pb n="21" facs="unknown:012397_0022_0F893F6FABE32B20"/>
 Which slowly to the west retire,</l>
                <l>And lose a while their glitt'ring fire.</l>
             </lg>
@@ -710,7 +710,7 @@ Which slowly to the west retire,</l>
                <l>Then I my lovely maid shall see thee</l>
                <l>Drinking the deep streams of LETHE,</l>
                <l>
-                  <pb n="22" facs="tcp:012397_0023_0F893F706EE6BE90"/>
+                  <pb n="22" facs="unknown:012397_0023_0F893F706EE6BE90"/>
 Where now dame ARETHUSA scatters</l>
                <l>Her soft stream with ALPHEUS' waters,</l>
                <l>To forget her earthly cares,</l>
@@ -731,7 +731,7 @@ Where now dame ARETHUSA scatters</l>
                <l>Is certainly an arduous work,</l>
                <l>Enough to tire out Jew or Turk;</l>
                <l>
-                  <pb n="23" facs="tcp:012397_0024_0F893F712BB7CD90"/>
+                  <pb n="23" facs="unknown:012397_0024_0F893F712BB7CD90"/>
 And make a christian bite his nails,</l>
                <l>For do his best, he surely fails;</l>
                <l>And spite of all that some may say,</l>
@@ -763,7 +763,7 @@ And make a christian bite his nails,</l>
                <l>Who like the tribunal of Spain,</l>
                <l>Let's you speak once, but not again;</l>
                <l>
-                  <pb n="24" facs="tcp:012397_0025_0F893F71F0F5E7B0"/>
+                  <pb n="24" facs="unknown:012397_0025_0F893F71F0F5E7B0"/>
 And swift to execute the blow,</l>
                <l>Ne'er tells you why or whence it's so:</l>
             </lg>
@@ -792,7 +792,7 @@ And swift to execute the blow,</l>
                <l>And let him quickly learn to say,</l>
                <l>Those learned words Penna, Pennae;</l>
                <l>
-                  <pb n="25" facs="tcp:012397_0026_0F893F72AAE431B0"/>
+                  <pb n="25" facs="unknown:012397_0026_0F893F72AAE431B0"/>
 Which late I heard our parson call,</l>
                <l>As learning, knowledge all in all."</l>
             </lg>
@@ -822,7 +822,7 @@ Which late I heard our parson call,</l>
                <l>Born in an hour when angry spheres</l>
                <l>Were tearing caps, or pulling ears:</l>
                <l>
-                  <pb n="26" facs="tcp:012397_0027_0F893F736AA910F8"/>
+                  <pb n="26" facs="unknown:012397_0027_0F893F736AA910F8"/>
 And Saturn slow 'gainst swift Mercurius,</l>
                <l>Was meditating battles furious;</l>
                <l>Or comets with their blazing train,</l>
@@ -849,7 +849,7 @@ And Saturn slow 'gainst swift Mercurius,</l>
                <l>Where she and her man JOHN did sleep alone,</l>
                <l>Nor nightly robber, nor the screach owl fear'd.</l>
                <l>
-                  <pb n="27" facs="tcp:012397_0028_0F893F750EF423E8"/>
+                  <pb n="27" facs="unknown:012397_0028_0F893F750EF423E8"/>
 There did they snore full oft' the whole night out,</l>
                <l>Smoking the sable pipe, 'till that did fall,</l>
                <l>Rest from their jaws by Somnus' sleepy rout,</l>
@@ -883,7 +883,7 @@ There did they snore full oft' the whole night out,</l>
       </body>
       <back>
          <div type="errata">
-            <pb n="28" facs="tcp:012397_0029_0F909114260BD288"/>
+            <pb n="28" facs="unknown:012397_0029_0F909114260BD288"/>
             <head>ERRATA.</head>
             <list>
                <item>Page 2, Line 5, for bore, read borne.</item>
